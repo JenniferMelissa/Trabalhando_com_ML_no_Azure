@@ -35,7 +35,7 @@ Crie um novo trabalho de ML automatizado com as seguintes configurações, usand
 
 - Nome do trabalho : O campo Nome do trabalho já deve estar preenchido previamente com um nome exclusivo. Mantenha-o como está.
 - Novo nome do experimento :consumo_energia_diario
-- Descrição : Aprendizado de máquina automatizado para previsão  doonsumo diário de energia elétrica
+- Descrição : Aprendizado de máquina automatizado para previsão  doo consumo diário de energia elétrica
 - Tags : nenhuma
 
 ## Tipo de tarefa e dados :
